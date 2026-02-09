@@ -11,7 +11,7 @@ const AgentCard = ({ agent, property }) => {
         Inquiry & Advisory
       </h3>
       
-      {/* Agent Profile Section */}
+      {/* Agent Profile Sec tion */}
       <div className="flex items-center gap-5 mb-8">
         <div className="relative group">
           <div className="w-20 h-20 bg-gray-50 rounded-2xl overflow-hidden border border-gray-100">
