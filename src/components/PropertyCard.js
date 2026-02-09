@@ -113,9 +113,7 @@ const PropertyCard = ({ property }) => {
                  </p>
               </div>
               <div className="pb-1">
-                 <p className="text-[8px] font-black uppercase tracking-[0.3em] text-black border-b border-black pb-1">
-                   Institutional Grade
-                 </p>
+                 
               </div>
             </div>
           </div>
